@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="control_background">#cc4285f4</color>
+    <string name="app_name">Android Things TensorFlow Image Classifier</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="description_info">Info</string>
+    <string name="help_message">When the LED is on, press the button to capture an image</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+</resources>

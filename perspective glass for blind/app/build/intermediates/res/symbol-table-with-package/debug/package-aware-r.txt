@@ -1,0 +1,14 @@
+com.example.androidthings.imageclassifier
+color control_background
+id container
+id imageView
+id result1
+id result2
+id result3
+id results
+layout activity_camera
+string app_name
+string camera_error
+string description_info
+string help_message
+string request_permission
